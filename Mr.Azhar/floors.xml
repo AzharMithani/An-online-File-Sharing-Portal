@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <floor>
+        <Name> Ground </Name>
+        <NumberOfExhibits>4</NumberOfExhibits>
+            <Exhibit>
+                <Name> RoboCafe </Name>
+                <Image>robocafe</Image>
+            </Exhibit>
+        <Exhibit>
+            <Name> RoboSoccer </Name>
+            <Image>robosoccer</Image>
+        </Exhibit>
+        <Exhibit>
+            <Name> RoboFight </Name>
+            <Image>robofight</Image>
+        </Exhibit>
+        <Exhibit>
+            <Name> RoboPainter </Name>
+            <Image>painterrobot</Image>
+        </Exhibit>
+    </floor>
+
+    <floor>
+    <Name> First </Name>
+    <NumberOfExhibits>4</NumberOfExhibits>
+        <Exhibit>
+            <Name> Domestic Robot </Name>
+            <Image>domesticrobot</Image>
+        </Exhibit>
+        <Exhibit>
+            <Name> Floor Cleaning Robot </Name>
+            <Image>floorcleaningrobot.jpg</Image>
+        </Exhibit>
+        <Exhibit>
+            <Name> Medical Science Robot </Name>
+            <Image>medicalsciencerobot.jpg</Image>
+        </Exhibit>
+        <Exhibit>
+            <Name> Wall Climbing Robot </Name>
+            <Image>wallclimbing.jpg</Image>
+        </Exhibit>
+    </floor>
+
+    <floor>
+        <Name> Second </Name>
+        <NumberOfExhibits>5</NumberOfExhibits>
+            <Exhibit>
+                <Name> Gridbot Autobot </Name>
+                <Image>grodbotautobot.jpg</Image>
+            </Exhibit>
+        <Exhibit>
+            <Name> IU Robot </Name>
+            <Image>iurobot.jpg</Image>
+        </Exhibit>
+        <Exhibit>
+            <Name> Team Indus Rover </Name>
+            <Image>teamindusrover.jpg</Image>
+        </Exhibit>
+        <Exhibit>
+            <Name> Speedobotix </Name>
+            <Image>speedobotix.jpg</Image>
+        </Exhibit>
+        <Exhibit>
+            <Name> OmniDrone </Name>
+            <Image>omnidrone.jpg</Image>
+        </Exhibit>
+    </floor>
+
+</resources>
